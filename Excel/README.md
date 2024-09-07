@@ -1,8 +1,11 @@
 **Project: Accommodation Management System for the Marche Region**
+
 **Description**
+
 This project involves developing a system for managing accommodation facilities in the Marche region, using two data files: one with the list of accommodations and another with average prices per city. The main tasks are:
 
 **Tasks**
+
 File "elencostrutture.xlsx":
 
 - Complete the missing information in the "RICERCA" sheet.
