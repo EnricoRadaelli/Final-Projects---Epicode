@@ -1,4 +1,4 @@
-# Project: SQL Data Retrieval and Analysis
+# Project: Store and Orders Database SQL Queries
 **Description**
 This project involves querying data from two databases: one for store management and one for order processing. The tasks focus on retrieving information about employees, video games, products, and customer orders based on specific conditions.
 
