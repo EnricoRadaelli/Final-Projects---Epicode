@@ -3,6 +3,7 @@
 **Description**
 
 This project aims to create a comprehensive Business Intelligence (BI) report for the Olist Store, a Brazilian e-commerce platform for sellers. The public dataset, spanning from 2016 to 2018, provides details on sales orders that allow for in-depth analysis across multiple dimensions such as customer, product, payment methods, and order status.
+
 The final BI report will allow stakeholders to make informed decisions by visually presenting key metrics and trends identified from the Olist dataset. The report will be dynamic, allowing users to filter and interact with the data based on specific requirements.
 
 **Main Tasks**
