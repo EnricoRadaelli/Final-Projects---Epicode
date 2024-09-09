@@ -12,6 +12,7 @@ This repository is a comprehensive collection of my final assignments completed 
 - Power BI: comprises Power BI reports and dashboards that highlight my ability to integrate data from various sources, transform it, and create impactful visual representations.
 
 **Objectives**
+
 The primary objectives of this portfolio are to:
 
 - Demonstrate my proficiency and versatile skills in data analysis across multiple platforms;
