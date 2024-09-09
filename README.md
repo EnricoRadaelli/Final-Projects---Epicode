@@ -24,4 +24,5 @@ The primary objectives of this portfolio are to:
 Feel free to explore the projects and code in each folder. Each project includes a detailed description of the problem, the approach taken, and insights derived from the analysis.
 
 **Contact**
+
 Should you have any questions about the projects or wish to discuss potential collaboration opportunities, please feel free to reach out.
