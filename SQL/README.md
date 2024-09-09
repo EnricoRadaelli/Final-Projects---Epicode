@@ -1,7 +1,8 @@
-# Project: Store and Orders Database SQL Queries
+# Project: ToysGroup Sales Database Design and Queries
 **Description**
-This project involves querying data from two databases: one for store management and one for order processing. The tasks focus on retrieving information about employees, video games, products, and customer orders based on specific conditions.
+This project involves designing and implementing a database for ToysGroup, a company distributing toys in various geographic regions. The database will manage information on products, sales, and the regions where sales occur. The goal is to create a relational database schema, populate it with sample data, and execute queries to extract meaningful insights related to sales performance, product demand, and regional revenue.
 
 **Main Tasks**
-- Query employee and video game data from the store database (e.g., employees by education, video game availability, store inventory);
-- Query product and order data from the orders database (e.g., products by price, customer emails, order details, and product names).
+- Design the database schema and implement tables for products, sales, and regions;
+- Populate the database with initial data and perform queries to manage and analyze the data;
+- Execute SQL queries to generate reports on sales performance, product demand, and regional revenues.
