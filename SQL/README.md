@@ -1,8 +1,7 @@
-# Project: Accommodation Management System for the Marche Region
+# Project: SQL Data Retrieval and Analysis
 **Description**
-This project involves developing a system to manage accommodation facilities in the Marche region, using two files: one with the list of accommodations and another with average prices by city.
+This project involves querying data from two databases: one for store management and one for order processing. The tasks focus on retrieving information about employees, video games, products, and customer orders based on specific conditions.
 
 **Main Tasks**
-- Complete and organize the accommodation data, adding a dropdown menu and automatic summaries;
-- Create a pivot table to analyze accommodations by category and city;
-- Transform and integrate data using Power Query and Power Pivot, establishing relationships between tables.
+- Query employee and video game data from the store database (e.g., employees by education, video game availability, store inventory);
+- Query product and order data from the orders database (e.g., products by price, customer emails, order details, and product names).
